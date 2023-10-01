@@ -186,7 +186,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 
 ---------------------------
 ### 9:15 - 10:00 CEST     
-#####  Lo0 - Networking en K8s
+#####  Kubernetes, the wild side, para nostalgicos y legacy
 **José Manuel Román (Loopback0)**
 {{% portfolio image="/gore30/img/juan_manuel_roman.jpg" alt="Juan Manuel Roman" %}}
 
