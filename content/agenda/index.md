@@ -23,7 +23,7 @@ Agradecemos a la UPC su aportacion de espacio para la Reunion 30 de ESNOG
 ---------------------------
 ### 9:00 - 9:15 CEST 
 ##### Registro
-{{% portfolio image="/gore-30/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+{{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
 Entrega de acreditaciones
 {{% /portfolio %}}  
