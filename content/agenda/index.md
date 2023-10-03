@@ -127,7 +127,7 @@ Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplaz
 
 ##### DE-CIX
 **Luis Maria Horvath** 
-{{% portfolio image="/gore30/img/luis_maria_horvath.jpg" alt="Marcos Sanz" %}}
+{{% portfolio image="/gore30/img/luis_maria_horvath.jpg" alt="Luis Maria Horvath" %}}
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 {{% /portfolio %}}  
 
