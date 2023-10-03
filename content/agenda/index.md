@@ -58,7 +58,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 ---------------------------
 ### 10:30 - 11:00 CEST
 ##### Análisis Forense en redes- Threat hunting
-**Carlos Fragoso (Maltego)** 
+**Carlos Fragoso (Maltego)**
 {{% portfolio image="/gore30/img/CarlosFragoso_FULL.jpg" alt="Carlos Fragoso" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
@@ -79,6 +79,8 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 **Christian Adell (Network To Code)** 
 {{% portfolio image="/gore30/img/ChristianAdell_FULL.jpg" alt="Christian Adell" %}}
 
+In this session, you will understand how to approach building closed-loop network automation solutions following a recommended architecture which allows you to pick the tools that best suit different use cases. You will see it in action in a demo implemented with open source tooling.
+
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
 {{% /portfolio %}}  
@@ -89,6 +91,8 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 **Javier Antich Romaguera**
 {{% portfolio image="/gore30/img/javier_antich.png" alt="Javier Antich" %}}
 
+Large Language Models are disrupting many industries and generating new opportunities while shifting paradigms. In this session, we will explore the impact in Networking and showcase several examples, including Anetta AI. 
+
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
 {{% /portfolio %}}  
@@ -97,7 +101,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 ### 12:45 - 13:30 CEST
 ##### Laboratorio”
 **Mercado IT**  
-Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplazamientos estará formado por un switch Nexus y un servidor HP Proliant Gen10 interconectados a 100Gbps. La conexión entre switches se realizará mediante un enlace de fibra óptica, en principio Multimodo, este enlace excederá de forma premeditada la longitud máxima de 100 metros
+Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplazamientos estará formado por un switch Nexus y un servidor HP Proliant Gen10 interconectados a 100Gbps. La conexión entre switches se realizará mediante un enlace de fibra óptica, en principio Multimodo, este enlace excederá de forma premeditada la longitud máxima de 100 metros.
 {{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="ESNOG" %}}  
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
@@ -122,7 +126,7 @@ Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplaz
 {{% /portfolio %}}  
 
 ##### DE-CIX
-**Marcos Sanz** 
+**Luis Maria Horvath** 
 {{% portfolio image="/gore30/img/MarcosSanz_small.jpg" alt="Marcos Sanz" %}}
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 {{% /portfolio %}}  
@@ -189,6 +193,8 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 #####  Kubernetes, the wild side, para nostalgicos y legacy
 **José Manuel Román (Loopback0)**
 {{% portfolio image="/gore30/img/juan_manuel_roman.jpg" alt="Juan Manuel Roman" %}}
+
+Cómo conectar redes de kubernetes con infraestructura no virtual. 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
