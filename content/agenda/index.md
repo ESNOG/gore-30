@@ -1,6 +1,6 @@
 ---
 title: "Agenda ESNOG 30"
-date: 2023-09-25
+date: 2023-10-26
 draft: true 
 ---
 
@@ -127,7 +127,7 @@ Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplaz
 
 ##### DE-CIX
 **Luis Maria Horvath** 
-{{% portfolio image="/gore30/img/MarcosSanz_small.jpg" alt="Marcos Sanz" %}}
+{{% portfolio image="/gore30/img/luis_maria_horvath.png" alt="Luis Maria Horvath" %}}
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 {{% /portfolio %}}  
 
