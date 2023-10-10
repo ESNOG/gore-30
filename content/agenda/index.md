@@ -164,7 +164,7 @@ Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplaz
 {{% /portfolio %}}  
 
 ---------------------------
-### 17:45 - 18:30 CEST
+### 18:00 - 18:30 CEST
 ##### Asamblea General de Socios ESNOG
 **ESNOG** 
 {{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="ESNOG" %}}
@@ -174,7 +174,7 @@ Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplaz
 
 ---------------------------
 
-### 20:00 - 21:00 CEST
+### 19:00 - 21:00 CEST
 #### Beers & Talk
 {{% portfolio image="/gore30/img/party01-icon.png" alt="cafe" %}}
 ([*El lugar se anunciara durante la sesión*](/gore30/archivos/esnog.pdf))
@@ -251,8 +251,8 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 ---------------------------
 ### 12:00 - 12:30 CEST     
 ##### SOLIDOPTICS
-**Amedeo Beck**
-{{% portfolio image="/gore30/img/Amedeo_beck-small.png" alt="Amedeo Beck" %}}
+**Amedeo Beck-Peccoz**
+{{% portfolio image="/gore30/img/Amedeo_beck-small.png" alt="Amedeo Beck-Peccoz" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
