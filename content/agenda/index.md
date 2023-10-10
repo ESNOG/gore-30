@@ -38,7 +38,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 
 ---------------------------
 ### 9:30 - 10:00 CEST
-##### Presentación patrocinadores
+##### Presentación Patrocinadores
 **Fernando F.**
 {{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
@@ -57,7 +57,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 ---------------------------
 ### 10:30 - 11:00 CEST
 ##### Skills for the next generation Network Engineer
-**Christian Adell (Network To Code)** 
+**Christian Adell** 
 {{% portfolio image="/gore30/img/ChristianAdell_FULL.jpg" alt="Christian Adell" %}}
 
 In this session, you will understand how to approach building closed-loop network automation solutions following a recommended architecture which allows you to pick the tools that best suit different use cases. You will see it in action in a demo implemented with open source tooling.
@@ -116,10 +116,11 @@ Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplaz
 {{% /portfolio %}}
 
 ---------------------------
-### 15:00 - 13:30 CEST
-##### Opengear
-**Opengear**  
-{{% portfolio image="/gore30/img/opengear.jpg" alt="Opengear" %}}
+### 15:00 - 15:30 CEST
+##### Unleash the power of Network Automation
+**Julien Orsolini**
+{{% portfolio image="/gore30/img/julien_orsolini.jpeg" alt="Julien Orsolini" %}}
+
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
 {{% /portfolio %}} 
@@ -156,7 +157,8 @@ Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplaz
 ---------------------------
 ### 16:45 - 17:15 CEST
 ##### BMP: The pa amb tomàquet your BGP monitoring was missing
-**Paolo Lucente (NTT)** 
+**Paolo Lucente**
+BMP, the BGP Monitoring Protocol, allows for stream lined export and collection of BGP data. BMP is being standardized at IETF with the design goal of being simple and effective. This presentation will offer a primer of BMP and give an insight on the current efforts to improve flexibility and robustness of the protocol
 {{% portfolio image="/gore30/img/paolo_lucente.jpg" alt="Paolo Lucente" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
@@ -164,7 +166,7 @@ Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplaz
 {{% /portfolio %}}  
 
 ---------------------------
-### 18:00 - 18:30 CEST
+### 17:20 - 18:00 CEST
 ##### Asamblea General de Socios ESNOG
 **ESNOG** 
 {{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="ESNOG" %}}
@@ -202,7 +204,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 ---------------------------
 ### 9:15 - 10:00 CEST     
 #####  Kubernetes, the wild side, para nostalgicos y legacy
-**José Manuel Román (Loopback0)**
+**José Manuel Román**
 {{% portfolio image="/gore30/img/juan_manuel_roman.jpg" alt="Juan Manuel Roman" %}}
 
 Cómo conectar redes de kubernetes con infraestructura no virtual. 
@@ -222,11 +224,11 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 {{% /portfolio %}}  
 
 ---------------------------
-### 10:30 - 10:00 CEST     
+### 10:30 - 11:00 CEST     
 #####  DNS Tap
 **Borja Marcos**
 
-{{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="Borja Marcos" %}}
+{{% portfolio image="/gore30/img/borja-marcos_FULL.jpg" alt="Borja Marcos" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
@@ -243,15 +245,16 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 ### 11:30 - 12:00 CEST     
 #####  ITNOG
 **Milko Ilari**
-{{% portfolio image="/gore30/img/Milko_Ilari.jpg" alt="Milko Ilari" %}}
+{{% portfolio image="/gore30/img/mirko_ilari.jpeg" alt="Milko Ilari" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
 {{% /portfolio %}}  
 
 ---------------------------
-### 12:00 - 12:30 CEST     
-##### SOLIDOPTICS
+### 12:00 - 12:30 CEST 
+##### Pendiente Confirmar Titulo
+
 **Amedeo Beck-Peccoz**
 {{% portfolio image="/gore30/img/Amedeo_beck-small.png" alt="Amedeo Beck-Peccoz" %}}
 
@@ -267,8 +270,4 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
-{{% /portfolio %}}  
-
----------------------------
-
-{{< sponsors >}}
+{{% /portfolio %}}
