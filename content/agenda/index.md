@@ -228,7 +228,7 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 #####  DNS Tap
 **Borja Marcos**
 
-{{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="Borja Marcos" %}}
+{{% portfolio image="/gore30/img/borja-marcos_FULL.jpg" alt="Borja Marcos" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
