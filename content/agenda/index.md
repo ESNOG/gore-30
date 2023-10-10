@@ -39,7 +39,6 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 ---------------------------
 ### 9:30 - 10:00 CEST
 ##### Presentación Patrocinadores
-**Fernando F.**
 {{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
@@ -57,7 +56,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 ---------------------------
 ### 10:30 - 11:00 CEST
 ##### Skills for the next generation Network Engineer
-**Christian Adell** 
+**Christian Adell (Network to code)** 
 {{% portfolio image="/gore30/img/ChristianAdell_FULL.jpg" alt="Christian Adell" %}}
 
 In this session, you will understand how to approach building closed-loop network automation solutions following a recommended architecture which allows you to pick the tools that best suit different use cases. You will see it in action in a demo implemented with open source tooling.
@@ -88,7 +87,7 @@ In this session, you will understand how to approach building closed-loop networ
 ---------------------------
 ### 12:00 - 12:45 CEST     
 ##### How LLMs may enable the next frontier in Network Automation
-**Javier Antich Romaguera**
+**Javier Antich Romaguera (Anetta AI)**
 {{% portfolio image="/gore30/img/javier_antich.png" alt="Javier Antich" %}}
 
 Large Language Models are disrupting many industries and generating new opportunities while shifting paradigms. In this session, we will explore the impact in Networking and showcase several examples, including Anetta AI. 
@@ -118,7 +117,7 @@ Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplaz
 ---------------------------
 ### 15:00 - 15:30 CEST
 ##### Unleash the power of Network Automation
-**Julien Orsolini**
+**Julien Orsolini (Opengear)**
 {{% portfolio image="/gore30/img/julien_orsolini.jpeg" alt="Julien Orsolini" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
@@ -157,7 +156,7 @@ Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplaz
 ---------------------------
 ### 16:45 - 17:15 CEST
 ##### BMP: The pa amb tomàquet your BGP monitoring was missing
-**Paolo Lucente**
+**Paolo Lucente (NTT)**
 BMP, the BGP Monitoring Protocol, allows for stream lined export and collection of BGP data. BMP is being standardized at IETF with the design goal of being simple and effective. This presentation will offer a primer of BMP and give an insight on the current efforts to improve flexibility and robustness of the protocol
 {{% portfolio image="/gore30/img/paolo_lucente.jpg" alt="Paolo Lucente" %}}
 
@@ -204,7 +203,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 ---------------------------
 ### 9:15 - 10:00 CEST     
 #####  Kubernetes, the wild side, para nostalgicos y legacy
-**José Manuel Román**
+**José Manuel Román (Loopback 0)**
 {{% portfolio image="/gore30/img/juan_manuel_roman.jpg" alt="Juan Manuel Roman" %}}
 
 Cómo conectar redes de kubernetes con infraestructura no virtual. 
@@ -216,7 +215,7 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 ---------------------------
 ### 10:00 - 10:30 CEST     
 #####  Interconexión de clouds públicos mediante el uso de cloud router.
-**Luis Maria Horvath** 
+**Luis Maria Horvath (DEC-IX)** 
 {{% portfolio image="/gore30/img/luis_maria_horvath.png" alt="Luis Maria Horvath" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
@@ -226,7 +225,7 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 ---------------------------
 ### 10:30 - 11:00 CEST     
 #####  DNS Tap
-**Borja Marcos**
+**Borja Marcos (Sarenet)**
 
 {{% portfolio image="/gore30/img/borja-marcos_FULL.jpg" alt="Borja Marcos" %}}
 
@@ -244,7 +243,7 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 ---------------------------
 ### 11:30 - 12:00 CEST     
 #####  ITNOG
-**Milko Ilari**
+**Milko Ilari (RETN)**
 {{% portfolio image="/gore30/img/mirko_ilari.jpeg" alt="Milko Ilari" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
@@ -255,7 +254,7 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 ### 12:00 - 12:30 CEST 
 ##### Pendiente Confirmar Titulo
 
-**Amedeo Beck-Peccoz**
+**Amedeo Beck-Peccoz (Solid Optics)**
 {{% portfolio image="/gore30/img/Amedeo_beck-small.jpg" alt="Amedeo Beck-Peccoz" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
