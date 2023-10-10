@@ -10,7 +10,7 @@ draft: true
 **UPC**
 Edificio Vertex.  
 Universitat Politecnica de Catalunya.  
-Plaza de Eusebi Güell, 6.  
+Plaza de Eusebi Güell, 6. 
 Barcelona
 
 Agradecemos a la UPC su aportacion de espacio para la Reunion 30 de ESNOG
@@ -38,7 +38,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 
 ---------------------------
 ### 9:30 - 10:00 CEST
-##### Libros que tienes que leer y que no te dicen en la carrera
+##### Presentación Patrocinadores
 **Fernando F.**
 {{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
@@ -47,23 +47,24 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 
 ---------------------------
 ### 10:00 - 10:30 CEST
-##### Web Tracking
-**Pere Barlet (UPC)** 
-{{% portfolio image="/gore30/img/pere_barlet.png" alt="Pere Barlet" %}}
+##### Libros que tienes que leer y que no te dicen en la carrera
+**Fernando F.**
+{{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
-
 {{% /portfolio %}}  
 
 ---------------------------
 ### 10:30 - 11:00 CEST
-##### Análisis Forense en redes- Threat hunting
-**Carlos Fragoso (Maltego)**
-{{% portfolio image="/gore30/img/CarlosFragoso_FULL.jpg" alt="Carlos Fragoso" %}}
+##### Skills for the next generation Network Engineer
+**Christian Adell** 
+{{% portfolio image="/gore30/img/ChristianAdell_FULL.jpg" alt="Christian Adell" %}}
+
+In this session, you will understand how to approach building closed-loop network automation solutions following a recommended architecture which allows you to pick the tools that best suit different use cases. You will see it in action in a demo implemented with open source tooling.
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
-{{% /portfolio %}}  
+{{% /portfolio %}}
 
 ---------------------------
 ### 11:00-11:30
@@ -73,13 +74,12 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 
 {{% /portfolio %}}  
 
----------------------------
-### 11:30 - 12:00 CEST
-##### Skills for the next generation Network Engineer
-**Christian Adell (Network To Code)** 
-{{% portfolio image="/gore30/img/ChristianAdell_FULL.jpg" alt="Christian Adell" %}}
 
-In this session, you will understand how to approach building closed-loop network automation solutions following a recommended architecture which allows you to pick the tools that best suit different use cases. You will see it in action in a demo implemented with open source tooling.
+---------------------------
+### 11:30 - 12:30 CEST
+##### Web Tracking
+**Pere Barlet (UPC)** 
+{{% portfolio image="/gore30/img/pere_barlet.png" alt="Pere Barlet" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
@@ -99,7 +99,7 @@ Large Language Models are disrupting many industries and generating new opportun
 
 ---------------------------
 ### 12:45 - 13:30 CEST
-##### Laboratorio”
+##### Laboratorio
 **Mercado IT**  
 Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplazamientos estará formado por un switch Nexus y un servidor HP Proliant Gen10 interconectados a 100Gbps. La conexión entre switches se realizará mediante un enlace de fibra óptica, en principio Multimodo, este enlace excederá de forma premeditada la longitud máxima de 100 metros.
 {{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="ESNOG" %}}  
@@ -113,13 +113,22 @@ Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplaz
 ##### COMIDA
 {{% portfolio image="/gore30/img/lunch-icon-small.png" alt="comida" %}}
 
-{{% /portfolio %}}  
+{{% /portfolio %}}
 
 ---------------------------
-### 15:00 - 16:30 CEST
+### 15:00 - 15:30 CEST
+##### Unleash the power of Network Automation
+**Julien Orsolini**
+{{% portfolio image="/gore30/img/julien_orsolini.jpeg" alt="Julien Orsolini" %}}
+([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
+
+{{% /portfolio %}} 
+
+---------------------------
+### 15:30 - 16:15 CEST
 ### Puntos Neutros
 
-##### CATNIX
+##### CATNIX 
 **María Isabel Gandía** 
 {{% portfolio image="/gore30/img/MariaIsabelGandia_small.png" alt="Maria Isabel Gandía" %}}
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
@@ -138,16 +147,17 @@ Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplaz
 {{% /portfolio %}}  
 
 ---------------------------
-### 16:30-17:00  
+### 16:15-16:45  
 #### Pausa para Café
 {{% portfolio image="/gore30/img/cup-of-coffee-icon-59-small.png" alt="cafe" %}}
 
 {{% /portfolio %}} 
 
 ---------------------------
-### 17:00 - 17:30 CEST
+### 16:45 - 17:15 CEST
 ##### BMP: The pa amb tomàquet your BGP monitoring was missing
-**Paolo Lucente (NTT)** 
+**Paolo Lucente**
+BMP, the BGP Monitoring Protocol, allows for stream lined export and collection of BGP data. BMP is being standardized at IETF with the design goal of being simple and effective. This presentation will offer a primer of BMP and give an insight on the current efforts to improve flexibility and robustness of the protocol
 {{% portfolio image="/gore30/img/paolo_lucente.jpg" alt="Paolo Lucente" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
@@ -155,7 +165,7 @@ Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplaz
 {{% /portfolio %}}  
 
 ---------------------------
-### 18:00 - 18:30 CEST
+### 17:20 - 18:00 CEST
 ##### Asamblea General de Socios ESNOG
 **ESNOG** 
 {{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="ESNOG" %}}
@@ -164,7 +174,8 @@ Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplaz
 {{% /portfolio %}}  
 
 ---------------------------
-### 20:00 - 21:00 CEST
+
+### 19:00 - 21:00 CEST
 #### Beers & Talk
 {{% portfolio image="/gore30/img/party01-icon.png" alt="cafe" %}}
 ([*El lugar se anunciara durante la sesión*](/gore30/archivos/esnog.pdf))
@@ -186,12 +197,13 @@ Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplaz
 {{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
 Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
+
 {{% /portfolio %}}  
 
 ---------------------------
 ### 9:15 - 10:00 CEST     
 #####  Kubernetes, the wild side, para nostalgicos y legacy
-**José Manuel Román (Loopback0)**
+**José Manuel Román**
 {{% portfolio image="/gore30/img/juan_manuel_roman.jpg" alt="Juan Manuel Roman" %}}
 
 Cómo conectar redes de kubernetes con infraestructura no virtual. 
@@ -202,18 +214,20 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 
 ---------------------------
 ### 10:00 - 10:30 CEST     
-#####  PRESENTACION PENDIENTE DE CONFIRMAR
-{{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+#####  Interconexión de clouds públicos mediante el uso de cloud router.
+**Luis Maria Horvath** 
+{{% portfolio image="/gore30/img/luis_maria_horvath.png" alt="Luis Maria Horvath" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
 {{% /portfolio %}}  
 
 ---------------------------
-### 10:30 - 10:00 CEST     
+### 10:30 - 11:00 CEST     
 #####  DNS Tap
-**Borja Ramos**
-{{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="Borja Ramons" %}}
+**Borja Marcos**
+
+{{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="Borja Marcos" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
@@ -228,8 +242,9 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 
 ---------------------------
 ### 11:30 - 12:00 CEST     
-#####  PRESENTACION PENDIENTE DE CONFIRMAR
-{{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+#####  ITNOG
+**Milko Ilari**
+{{% portfolio image="/gore30/img/mirko_ilari.jpeg" alt="Milko Ilari" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
@@ -237,9 +252,9 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 
 ---------------------------
 ### 12:00 - 12:30 CEST     
-##### Interconexión de clouds públicos
-**Luis Maria Horvath (DE-CIX)**
-{{% portfolio image="/gore30/img/luis_maria_horvath.png" alt="Luis Maria Horvath" %}}
+##### Pendiente Confirmar Titulo
+**Amedeo Beck-Peccoz**
+{{% portfolio image="/gore30/img/Amedeo_beck-small.png" alt="Amedeo Beck-Peccoz" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
