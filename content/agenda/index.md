@@ -256,7 +256,7 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 ##### Pendiente Confirmar Titulo
 
 **Amedeo Beck-Peccoz**
-{{% portfolio image="/gore30/img/Amedeo_beck-small.png" alt="Amedeo Beck-Peccoz" %}}
+{{% portfolio image="/gore30/img/Amedeo_beck-small.jpg" alt="Amedeo Beck-Peccoz" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
