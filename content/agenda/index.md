@@ -120,6 +120,7 @@ Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplaz
 ##### Unleash the power of Network Automation
 **Julien Orsolini**
 {{% portfolio image="/gore30/img/julien_orsolini.jpeg" alt="Julien Orsolini" %}}
+
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
 {{% /portfolio %}} 
@@ -251,8 +252,9 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 {{% /portfolio %}}  
 
 ---------------------------
-### 12:00 - 12:30 CEST     
+### 12:00 - 12:30 CEST 
 ##### Pendiente Confirmar Titulo
+
 **Amedeo Beck-Peccoz**
 {{% portfolio image="/gore30/img/Amedeo_beck-small.png" alt="Amedeo Beck-Peccoz" %}}
 
@@ -268,8 +270,4 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
-{{% /portfolio %}}  
-
----------------------------
-
-{{< sponsors >}}
+{{% /portfolio %}}
