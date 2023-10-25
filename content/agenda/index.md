@@ -75,10 +75,12 @@ In this session, you will understand how to approach building closed-loop networ
 
 
 ---------------------------
-### 11:30 - 12:30 CEST
-##### Web Tracking
-**Pere Barlet (UPC)** 
+### 11:30 - 12:00 CEST
+##### ePrivo.eu: An online privacy observatory
+**Pere Barlet (ePrivo)**
 {{% portfolio image="/gore30/img/pere_barlet.png" alt="Pere Barlet" %}}
+
+Los servicios de Internet suelen recopilar grandes cantidades de datos personales. Como resultado, más de la mitad de los ciudadanos de la Unión Europea están preocupados por su privacidad en Internet. En este contexto, existen empresas (conocidas como data brokers) que se dedican a recopilar y a vender información personal a otras empresas. La recopilación de estos datos suele implementarse utilizando third-party trackers, lo que les permite obtener visibilidad de gran parte de Internet. Algunos trabajos recientes muestran que esta información personal no solo se utiliza para la publicidad dirigida, sino también para prácticas más cuestionables, como la discriminación de precios, el scoring bancario, el phishing o el robo de identidad. En esta charla discutiremos sobre estas crecientes preocupaciones alrededor de la privacidad y presentaremos ePrivo (https://eprivo.eu) un nuevo observatorio de privacidad en línea que estamos desarrollando en la UPC, y que escanea continuamente Internet para revelar los third-party trackers, los métodos de tracking que utilizan y los data brokers que hay detrás de ellos.
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
@@ -99,7 +101,7 @@ Large Language Models are disrupting many industries and generating new opportun
 ---------------------------
 ### 12:45 - 13:30 CEST
 ##### Laboratorio
-**Mercado IT**  
+**Jorge Tejada (Mercado IT)**  
 Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplazamientos estará formado por un switch Nexus y un servidor HP Proliant Gen10 interconectados a 100Gbps. La conexión entre switches se realizará mediante un enlace de fibra óptica, en principio Multimodo, este enlace excederá de forma premeditada la longitud máxima de 100 metros.
 {{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="ESNOG" %}}  
 
@@ -157,8 +159,10 @@ Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplaz
 ### 16:45 - 17:15 CEST
 ##### BMP: The pa amb tomàquet your BGP monitoring was missing
 **Paolo Lucente (NTT)**
-BMP, the BGP Monitoring Protocol, allows for stream lined export and collection of BGP data. BMP is being standardized at IETF with the design goal of being simple and effective. This presentation will offer a primer of BMP and give an insight on the current efforts to improve flexibility and robustness of the protocol
 {{% portfolio image="/gore30/img/paolo_lucente.jpg" alt="Paolo Lucente" %}}
+
+BMP, the BGP Monitoring Protocol, allows for stream lined export and collection of BGP data. BMP is being standardized at IETF with the design goal of being simple and effective. This presentation will offer a primer of BMP and give an insight on the current efforts to improve flexibility and robustness of the protocol
+
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
@@ -216,7 +220,7 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 ### 10:00 - 10:30 CEST     
 #####  Interconexión de clouds públicos mediante el uso de cloud router.
 **Luis Maria Horvath (DEC-IX)** 
-{{% portfolio image="/gore30/img/luis_maria_horvath.png" alt="Luis Maria Horvath" %}}
+{{% portfolio image="/gore30/img/luis_maria_horvath.png" alt="Luis Maria Horvath" %}} 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
@@ -252,10 +256,12 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 
 ---------------------------
 ### 12:00 - 12:30 CEST 
-##### Pendiente Confirmar Titulo
+##### Explorando el cambiante ecosistema de formatos y conectores de los transceptores ópticos
 
 **Amedeo Beck-Peccoz (Solid Optics)**
 {{% portfolio image="/gore30/img/Amedeo_beck-small.jpg" alt="Amedeo Beck-Peccoz" %}}
+
+En el entorno de la tecnología en constante evolución, siguen apareciendo nuevos formatos de transceptores ópticos acompañados de nuevos formatos de los conectores de fibra óptica. Exploramos las razones detrás de esta evolución y descubrimos las soluciones más comunes en la actualidad, así como los estándares de referencia que formarán el mercado de los próximos años.
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
