@@ -34,6 +34,8 @@ Entrega de acreditaciones
 {{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
 Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
+
+([**PRESENTACION**](/gore30/archivos/esnog_30-bienvenida.pdf))
 {{% /portfolio %}}  
 
 ---------------------------
@@ -77,12 +79,12 @@ In this session, you will understand how to approach building closed-loop networ
 ---------------------------
 ### 11:30 - 12:00 CEST
 ##### ePrivo.eu: An online privacy observatory
-**Pere Barlet (ePrivo)**
+**Pere Barlet (UPC)**
 {{% portfolio image="/gore30/img/pere_barlet.png" alt="Pere Barlet" %}}
 
 Los servicios de Internet suelen recopilar grandes cantidades de datos personales. Como resultado, más de la mitad de los ciudadanos de la Unión Europea están preocupados por su privacidad en Internet. En este contexto, existen empresas (conocidas como data brokers) que se dedican a recopilar y a vender información personal a otras empresas. La recopilación de estos datos suele implementarse utilizando third-party trackers, lo que les permite obtener visibilidad de gran parte de Internet. Algunos trabajos recientes muestran que esta información personal no solo se utiliza para la publicidad dirigida, sino también para prácticas más cuestionables, como la discriminación de precios, el scoring bancario, el phishing o el robo de identidad. En esta charla discutiremos sobre estas crecientes preocupaciones alrededor de la privacidad y presentaremos ePrivo (https://eprivo.eu) un nuevo observatorio de privacidad en línea que estamos desarrollando en la UPC, y que escanea continuamente Internet para revelar los third-party trackers, los métodos de tracking que utilizan y los data brokers que hay detrás de ellos.
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
+([**PRESENTACION**](/gore30/archivos/esnog_30-eprivo-upc.pdf))
 
 {{% /portfolio %}}  
 
@@ -100,12 +102,12 @@ Large Language Models are disrupting many industries and generating new opportun
 
 ---------------------------
 ### 12:45 - 13:30 CEST
-##### Laboratorio
+##### Interconexión de dos emplazamientos por fibra óptica
 **Jorge Tejada (Mercado IT)**  
 Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplazamientos estará formado por un switch Nexus y un servidor HP Proliant Gen10 interconectados a 100Gbps. La conexión entre switches se realizará mediante un enlace de fibra óptica, en principio Multimodo, este enlace excederá de forma premeditada la longitud máxima de 100 metros.
 {{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="ESNOG" %}}  
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
+([**PRESENTACION**](/gore30/archivos/esnog_30-mercadoIT.pdf))
 
 {{% /portfolio %}}  
 
@@ -118,7 +120,7 @@ Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplaz
 
 ---------------------------
 ### 15:00 - 15:30 CEST
-##### Unleash the power of Network Automation
+##### How to be the tech hero when things go wrong on your network
 **Julien Orsolini (Opengear)**
 {{% portfolio image="/gore30/img/julien_orsolini.jpeg" alt="Julien Orsolini" %}}
 
@@ -200,7 +202,7 @@ BMP, the BGP Monitoring Protocol, allows for stream lined export and collection 
 ##### Registro y Bienvenida
 {{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
+Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 
 {{% /portfolio %}}  
 
