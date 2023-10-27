@@ -15,7 +15,6 @@ Barcelona
 
 Agradecemos a la UPC su aportacion de espacio para la Reunion 30 de ESNOG
 
-**AGENDA PROVISIONAL. ES POSIBLE QUE SUFRA CAMBIOS**
 
 {{% /portfolio %}} 
 
@@ -52,7 +51,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 **Fernando F.**
 {{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
+([**PRESENTACION**](/gore30/archivos/esnog_30-fernando-libros_que_tienes_que_leer.pdf))
 {{% /portfolio %}}  
 
 ---------------------------
@@ -63,7 +62,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 
 In this session, you will understand how to approach building closed-loop network automation solutions following a recommended architecture which allows you to pick the tools that best suit different use cases. You will see it in action in a demo implemented with open source tooling.
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
+([**PRESENTACION**](/gore30/archivos/esnog_30-network_to_code-christian_adell.pdf))
 
 {{% /portfolio %}}
 
@@ -84,7 +83,7 @@ In this session, you will understand how to approach building closed-loop networ
 
 Los servicios de Internet suelen recopilar grandes cantidades de datos personales. Como resultado, más de la mitad de los ciudadanos de la Unión Europea están preocupados por su privacidad en Internet. En este contexto, existen empresas (conocidas como data brokers) que se dedican a recopilar y a vender información personal a otras empresas. La recopilación de estos datos suele implementarse utilizando third-party trackers, lo que les permite obtener visibilidad de gran parte de Internet. Algunos trabajos recientes muestran que esta información personal no solo se utiliza para la publicidad dirigida, sino también para prácticas más cuestionables, como la discriminación de precios, el scoring bancario, el phishing o el robo de identidad. En esta charla discutiremos sobre estas crecientes preocupaciones alrededor de la privacidad y presentaremos ePrivo (https://eprivo.eu) un nuevo observatorio de privacidad en línea que estamos desarrollando en la UPC, y que escanea continuamente Internet para revelar los third-party trackers, los métodos de tracking que utilizan y los data brokers que hay detrás de ellos.
 
-([**PRESENTACION**](/gore30/archivos/esnog_30-eprivo-upc.pdf))
+([**PRESENTACION**](/gore30/archivos/esnog_30-upc-eprivo-pere_barlet.pdf))
 
 {{% /portfolio %}}  
 
@@ -96,7 +95,7 @@ Los servicios de Internet suelen recopilar grandes cantidades de datos personale
 
 Large Language Models are disrupting many industries and generating new opportunities while shifting paradigms. In this session, we will explore the impact in Networking and showcase several examples, including Anetta AI. 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
+([**PRESENTACION**](/gore30/archivos/esnog_30-aneta-llm_in_network.pdf))
 
 {{% /portfolio %}}  
 
@@ -135,19 +134,19 @@ Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplaz
 ##### CATNIX 
 **María Isabel Gandía** 
 {{% portfolio image="/gore30/img/MariaIsabelGandia_small.png" alt="Maria Isabel Gandía" %}}
-([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
+([**PRESENTACION**](/gore30/archivos/esnog_30-ix-catnix.pdf))
 {{% /portfolio %}}  
 
 ##### DE-CIX
 **Luis Maria Horvath** 
 {{% portfolio image="/gore30/img/luis_maria_horvath.png" alt="Luis Maria Horvath" %}}
-([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
+([**PRESENTACION**](/gore30/archivos/esnog_30-ix-decix.pdf))
 {{% /portfolio %}}  
 
 ##### Espanix
 **Javier Achirica** 
 {{% portfolio image="/gore30/img/JavierAchirica_small.jpg" alt="Javier Achirica" %}}
-([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
+([**PRESENTACION**](/gore30/archivos/esnog_30-ix-espanix.pdf))
 {{% /portfolio %}}  
 
 ---------------------------
@@ -166,7 +165,7 @@ Interconexión de dos emplazamientos por fibra óptica. Cada uno de estos emplaz
 BMP, the BGP Monitoring Protocol, allows for stream lined export and collection of BGP data. BMP is being standardized at IETF with the design goal of being simple and effective. This presentation will offer a primer of BMP and give an insight on the current efforts to improve flexibility and robustness of the protocol
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
+([**PRESENTACION**](/gore30/archivos/esnog_30-ntt-bmp-paolo_lucente.pdf))
 
 {{% /portfolio %}}  
 
@@ -214,7 +213,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-30
 
 Cómo conectar redes de kubernetes con infraestructura no virtual. 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
+([**PRESENTACION**](/gore30/archivos/esnog_30-kubernetes-the_wild_side_para_nostalgicos_y_legacy.pdf))
 
 {{% /portfolio %}}  
 
@@ -224,7 +223,7 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 **Luis Maria Horvath (DEC-IX)** 
 {{% portfolio image="/gore30/img/luis_maria_horvath.png" alt="Luis Maria Horvath" %}} 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
+([**PRESENTACION**](/gore30/archivos/esnog_30-decix-cloud_router.pdf))
 
 {{% /portfolio %}}  
 
