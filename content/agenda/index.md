@@ -223,7 +223,7 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 **Luis Maria Horvath (DEC-IX)** 
 {{% portfolio image="/gore30/img/luis_maria_horvath.png" alt="Luis Maria Horvath" %}} 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
+([**PRESENTACION**](/gore30/archivos/esnog_30-decix-cloud_router.pdf))
 
 {{% /portfolio %}}  
 
