@@ -234,7 +234,7 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 
 {{% portfolio image="/gore30/img/borja-marcos_FULL.jpg" alt="Borja Marcos" %}}
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
+([**PRESENTACION**](/gore30/archivos/esnog_30-sarenet-borja_marcos-dnstap.pdf))
 
 {{% /portfolio %}}  
 
@@ -248,7 +248,7 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 ---------------------------
 ### 11:30 - 12:00 CEST     
 #####  ITNOG
-**Milko Ilari (RETN)**
+**Milko Ilari (RETN-ITNOG)**
 {{% portfolio image="/gore30/img/mirko_ilari.jpeg" alt="Milko Ilari" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
@@ -264,7 +264,7 @@ Cómo conectar redes de kubernetes con infraestructura no virtual.
 
 En el entorno de la tecnología en constante evolución, siguen apareciendo nuevos formatos de transceptores ópticos acompañados de nuevos formatos de los conectores de fibra óptica. Exploramos las razones detrás de esta evolución y descubrimos las soluciones más comunes en la actualidad, así como los estándares de referencia que formarán el mercado de los próximos años.
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
+([**PRESENTACION**](/gore30/archivos/esnog_30-solid_optics-navigating_the_evolving_landscape_of_optical_transceiver_formats_and_connectors.pdf))
 
 {{% /portfolio %}}  
 
@@ -274,6 +274,5 @@ En el entorno de la tecnología en constante evolución, siguen apareciendo nuev
 **ESNOG** 
 {{% portfolio image="/gore30/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore30/archivos/esnog.pdf))
 
 {{% /portfolio %}}
